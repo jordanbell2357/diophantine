@@ -1,0 +1,3 @@
+\keywords{Bernoulli polynomials, continued fractions, Diophantine approximation, discrepancy, ergodic theory, exponential sums, Farey fractions, Koksma's
+inequality,
+$q$-series, quadratic reciprocity, uniform distribution, Weyl's inequality}
